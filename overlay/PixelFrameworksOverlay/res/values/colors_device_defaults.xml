@@ -16,27 +16,15 @@
 -->
 <resources>
 
-    <color name="accent_device_default_light">#ff1a73e8</color>
-    <color name="accent_device_default_dark">#ff8ab4f8</color>
+    <color name="accent_device_default_light">#C85125</color>
+    <color name="accent_device_default_dark">#F19D7D</color>
 
-    <color name="background_device_default_light">#ffffffff</color>
-    <color name="background_floating_device_default_dark">#ff3c4043</color>
-
-    <!-- Error color -->
-    <color name="error_color_device_default_dark">#fff28b82</color>
-    <color name="error_color_device_default_light">#ffd93025</color>
-    <color name="system_error">#ffea4335</color>
-
-    <color name="primary_device_default_dark">#ff2d2d2d</color>
-    <color name="primary_device_default_settings">#ff2d2d2d</color>
-    <color name="primary_device_default_settings_light">#ffffffff</color>
-    <color name="primary_dark_device_default_dark">#ff242424</color>
-    <color name="primary_dark_device_default_settings">#ff000000</color>
-    <color name="primary_dark_device_default_settings_light">#ffffffff</color>
-
-    <color name="secondary_device_default_settings">#ff3a3a3a</color>
-    <color name="tertiary_device_default_settings">#ff616161</color>
-    <color name="quaternary_device_default_settings">#ff9e9e9e</color>
+    <color name="primary_device_default_settings">#202028</color> <!-- colorPrimary -->
+    <color name="primary_dark_device_default_settings">#202028</color> <!-- colorPrimaryDark-->
+    <color name="primary_custom_dark_settings">#202028</color> <!-- Settings-->
+    <color name="primary_custom_dark_settings_dark">#202028</color> <!-- Settings Dark-->
+    <color name="material_grey_800">#202028</color> <!-- google elgoogleogoelo -->
+    <color name="material_grey_900">#202028</color> <!-- google elgoogleogoelo -->
 
     <!-- Default user icon colors -->
     <color name="user_icon_1">@*android:color/accent_device_default_light</color>
